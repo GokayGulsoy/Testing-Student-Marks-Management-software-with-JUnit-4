@@ -1,4 +1,4 @@
-# Testing-Student-Marks-Management-software-with-JUnit-4
+# Testing Student Marks Management Software with JUnit 4
 
 ## Objectives of this project
 - Enhance the knowledge of object-oriented programming
