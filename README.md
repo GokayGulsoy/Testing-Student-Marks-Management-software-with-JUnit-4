@@ -48,5 +48,5 @@ project consists of 5 different packages.
 - package 4 teacher
 - package 5 mark
   
-![project structure](screenshot_1.JPG)
+![project structure](Project 1/student-marks-management-master/screenshot_1.JPG)
 
